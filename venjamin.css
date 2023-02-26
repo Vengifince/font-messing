@@ -25,15 +25,15 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-circuit-heart:before {
+.venj-circuit-heart:before {
   content: "\e2";
 }
-.icon-ouroburous:before {
+.venj-ouroburous:before {
   content: "\e3";
 }
-.icon-wing-thorns:before {
+.venj-wing-thorns:before {
   content: "\e4";
 }
-.icon-heart-paw:before {
+.venj-heart-paw:before {
   content: "\e1";
 }

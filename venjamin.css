@@ -32,10 +32,10 @@
   content: "\e903";
 }
 .venj-wing-thorns:before {
-  content: "\e904";
+  content: "\e4";
 }
 .venj-alchemy-fire:before {
-  content: "\e902";
+  content: "\e5";
 }
 .venj-bloody-hook:before {
   content: "\e906";
@@ -46,4 +46,5 @@
 .venj-heart-paw:before {
   content: "\e901";
 }
+
 

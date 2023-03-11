@@ -26,10 +26,10 @@
 }
 
 .venj-circuit-heart:before {
-  content: "\e907";
+  content: "\e7";
 }
 .venj-ouroburous:before {
-  content: "\e903";
+  content: "\e3";
 }
 .venj-wing-thorns:before {
   content: "\e4";
@@ -38,13 +38,13 @@
   content: "\e5";
 }
 .venj-bloody-hook:before {
-  content: "\e906";
+  content: "\e6";
 }
 .venj-rose-coffin:before {
-  content: "\e905";
+  content: "\e5";
 }
 .venj-heart-paw:before {
-  content: "\e901";
+  content: "\e1";
 }
 
 

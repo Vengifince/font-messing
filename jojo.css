@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'jojo';
+  src:  url('https://vengifince.github.io/font-messing/jojo.eot?lrlmq9');
+  src:  url('https://vengifince.github.io/font-messing/jojo.eot?lrlmq9#iefix') format('embedded-opentype'),
+    url('https://vengifince.github.io/font-messing/jojo.ttf?lrlmq9') format('truetype'),
+    url('https://vengifince.github.io/font-messing/jojo.woff?lrlmq9') format('woff'),
+    url('https://vengifince.github.io/font-messing/jojo.svg?lrlmq9#jojo') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="jojo-"], [class*=" jojo-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'jojo' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.jojo-double-aces:before {
+  content: "\e900";
+}
